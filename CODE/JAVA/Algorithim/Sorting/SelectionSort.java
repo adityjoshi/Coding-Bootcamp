@@ -15,7 +15,7 @@ public class se {
         }
     }
 
-    static void swap(int[] arr ,int first , int second ) {
+    static void swap(int[] arr ,int first , int second ) {              // int first = maxIndex , int second = last 
         int temp = arr[first];
         arr[first]=arr[second];
         arr[second]=temp;
