@@ -3,7 +3,8 @@
 0 1
 1 0 1
 0 1 0 1
-1 0 1 0 1
+1 0 1 0 1 
+
  */
 public class Pattern2 {
     public static void main(String[] args) {
